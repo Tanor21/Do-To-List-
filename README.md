@@ -1,2 +1,2 @@
 # Do-To-List-
-Do To List With LocalStorage JavaScript
+To Do To List With LocalStorage JavaScript
