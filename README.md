@@ -1,2 +1,2 @@
 # To-Do-List
-To Do To List With LocalStorage JavaScript.
+To Do List With LocalStorage JavaScript.
